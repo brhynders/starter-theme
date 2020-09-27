@@ -1,0 +1,28 @@
+/*
+Theme Name: Anna's Theme
+Author: Anna
+Description: Custom theme developed by Anna
+Version: 1.0
+Requires at least: 5.0
+Tested up to: 5.4
+Requires PHP: 7.0
+*/
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+h1{
+    color: orange;
+}
+
